@@ -11,7 +11,7 @@ O objetivo do projeto é realizar as contas da casa de forma símples, possibili
 - **Gerência dos Quartos:**
 
   - Inserir, Remover e Realocar moradores dos quartos;
-  - Informar se _Existe(m) Quarto(s) Vazio(s)? Qual(is) o(s) Tipo(s) de Quarto(s) Disponível(is) e Qual(is) o(s) Valor(es)?_;
+  - Informar se _Existem Quartos Vazios? Quais os Tipos de Quartos Disponíveis e Quais os Valores?_;
   - Informar _Quantas Vagas Estão Disponíveis?_;
   - Calcular o valor de cada quarto com base nos pesos e no aluguel, dividindo o valor do aluguel pelo total da soma de m² de todos os quartos. Veja a [Tabela Dos Quartos](./docs/notes/README.bedrooms.md) para informações mais detalhadas sobre os quartos.
 
@@ -26,9 +26,9 @@ O objetivo do projeto é realizar as contas da casa de forma símples, possibili
 
   - Após o fechamento das contas do mês referente, será possível exibir em tela as informações detalhadas das contas e o valor de cada morador, além de ter a opção de baixar um PDF com essas informações. O PDF deverá ter um nome padrão de arquivo: **Contas-Viralata_2020-03-02.pdf** (Título_Ano-Mês-Dia). [Clique Aqui](./docs/notes/README.pdf.md) e veja um exemplo de como ficará o PDF.
 
-    \* A data contina no nome do arquivo PDF será organizada como **Ano-Mês-Dia** para facilitar na hora de armazenar em algum diretório, dado que a maioria organiza por nome. Colocando assim, automaticamente os arquivos de contas mais recentes no início.
+    \* A data contida no nome do arquivo PDF será organizada como **Ano-Mês-Dia** para facilitar na hora de armazenar em algum diretório, dado que a maioria dos diretórios é organizado por nome. Colocando automaticamente os arquivos de contas mais recentes no início.
 
-    \* O documento PDF possui no final uma parte para assinaturas, permitindo que ao ser impresso, ele possa ser autenticado pelos moradores e armazenado (grampeado) junto com o recibo das contas e notinhas do mês referente, facilitando assim a organização dos arquivos físicos das contas.
+    \* O documento PDF possui no final uma parte para assinaturas, permitindo que ao ser impresso, possa ser autenticado (assinado) pelos moradores e armazenado (grampeado) junto com o recibo das contas e notinhas do mês referente, facilitando assim a organização dos arquivos físicos das contas.
 
 ## **LICENÇA**
 
