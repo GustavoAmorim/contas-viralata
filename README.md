@@ -1,6 +1,12 @@
 ![Banner_Contas-ViraLata](https://user-images.githubusercontent.com/38081852/75180453-00f4d400-571b-11ea-85a7-d3a83f830352.png)
 
-![GitHub issues](https://img.shields.io/github/issues-raw/x0n4d0/contas-viralata?color=green) ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/x0n4d0/contas-viralata?color=red) ![GitHub](https://img.shields.io/github/license/x0n4d0/contas-viralata?color=yellow) ![GitHub last commit](https://img.shields.io/github/last-commit/x0n4d0/contas-viralata) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/x0n4d0/contas-viralata) ![Server](https://img.shields.io/badge/server-Node%20%7C%20TypeScript-informational) ![Client](https://img.shields.io/badge/client-React-blueviolet)
+![GitHub issues](https://img.shields.io/github/issues-raw/x0n4d0/contas-viralata?color=green) ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/x0n4d0/contas-viralata?color=red) ![GitHub](https://img.shields.io/github/license/x0n4d0/contas-viralata?color=yellow) ![GitHub last commit](https://img.shields.io/github/last-commit/x0n4d0/contas-viralata) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/x0n4d0/contas-viralata) ![Server](https://img.shields.io/badge/server-Node%20%7C%20TypeScript-informational) ![Client](https://img.shields.io/badge/client-React-blueviolet) [![Build Status](https://travis-ci.org/x0n4d0/contas-viralata.png?branch=master)](https://travis-ci.org/x0n4d0/contas-viralata) ![Node Version](https://img.shields.io/badge/node-12.16.1-critical)
+
+<!--
+![Netlify](https://img.shields.io/netlify/id)
+
+[![Heroku CI Status](https://{deployed app name}.herokuapp.com/last.svg)](https://dashboard.heroku.com/pipelines/{pipeline ID}/tests)
+-->
 
 ## **OBJETIVO**
 
