@@ -17,8 +17,6 @@ O objetivo do projeto é realizar as contas da casa de forma símples, possibili
 - **Gerência dos Quartos:**
 
   - Inserir, Remover e Realocar moradores dos quartos;
-  - Informar se _Existem Quartos Vazios? Quais os Tipos de Quartos Disponíveis e Quais os Valores?_;
-  - Informar _Quantas Vagas Estão Disponíveis?_;
   - Calcular o valor de cada quarto com base nos pesos e no aluguel, dividindo o valor do aluguel pelo total da soma de m² de todos os quartos. Veja a [Tabela Dos Quartos](./docs/notes/README.bedrooms.md) para informações mais detalhadas sobre os quartos.
 
 - **Gerência das Contas:**
@@ -35,6 +33,13 @@ O objetivo do projeto é realizar as contas da casa de forma símples, possibili
     \* A data contida no nome do arquivo PDF será organizada como **Ano-Mês-Dia** para facilitar na hora de armazenar em algum diretório, dado que a maioria dos diretórios é organizado por nome. Colocando automaticamente os arquivos de contas mais recentes no início.
 
     \* O documento PDF possui no final uma parte para assinaturas, permitindo que ao ser impresso, possa ser autenticado (assinado) pelos moradores e armazenado (grampeado) junto com o recibo das contas e notinhas do mês referente, facilitando assim a organização dos arquivos físicos das contas.
+
+- **Queries (Consultas param serem exibidas na Interface):**
+
+  - Quantos moradores possuem atualmente na casa? Desses moradores, quantos são calouros?
+  - Quantos quartos individuais e divididos possuem na casa?
+  - Qual a média de valor total dos quartos individuais e dos quartos divididos?
+  - Existem Quartos/Vagas Disponíveis? Se existem, quais os tipos de quartos disponíveis e os seus respectivos valores?
 
 ## **LICENÇA**
 
